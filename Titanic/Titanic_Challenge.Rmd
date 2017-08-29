@@ -4,11 +4,11 @@ author: "Elba Gomez N."
 date: "August 28, 2017"
 output: html_document
 ---
-First we load and explore the training dataset. 
+First we load and explore the training dataset.
 ```{r}
 titanic <-read.csv("/Users/elbagomeznavas/Desktop/School/GITHUB/Kaggle-Practice/Titanic/train.csv")
 head(titanic) 
 ```
-
+We have x variables in our titanic dataset that we can use to predict whether a passenger survived or not. Now, we want to see how we can use them to generate the best predictions we can.
 
 
