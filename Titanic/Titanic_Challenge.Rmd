@@ -4,8 +4,11 @@ author: "Elba Gomez N."
 date: "August 28, 2017"
 output: html_document
 ---
-First we load the training dataset. 
+First we load and explore the training dataset. 
 ```{r}
 titanic <-read.csv("/Users/elbagomeznavas/Desktop/School/GITHUB/Kaggle-Practice/Titanic/train.csv")
+head(titanic) 
 ```
+
+
 
