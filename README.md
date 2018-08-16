@@ -1,2 +1,2 @@
 # Kaggle-Practice
-Some Kaggle competitions for practice
+Kaggle competitions for practice
