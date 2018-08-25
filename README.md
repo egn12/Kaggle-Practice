@@ -1,2 +1,2 @@
 # Kaggle-Practice
-Kaggle competitions for practice 
+Kaggle competitions for practice during my free time 
