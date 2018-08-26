@@ -1,2 +1,5 @@
 # Kaggle-Practice
-Kaggle competitions for practice during my free time 
+Kaggle competitions for practice:
+
+1. Titanic Classification 
+
